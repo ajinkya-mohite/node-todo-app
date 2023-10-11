@@ -1,6 +1,6 @@
 # node-todo-cicd
 
-Run these commands:
+Run these commands to execute:
 
 
 `sudo apt install nodejs`
@@ -16,4 +16,7 @@ Run these commands:
 or Run by docker compose
 
 test
+
+
+
 
